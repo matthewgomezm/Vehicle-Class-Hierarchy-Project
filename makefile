@@ -21,3 +21,7 @@ clear:
 	rm *.o
 	rm *.h.gch
 	rm hw5
+// *************************
+// * Author: Matthew Gomez *********
+// * Florida State University 2025 *
+// *********************************
