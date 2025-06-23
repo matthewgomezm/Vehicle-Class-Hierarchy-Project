@@ -1,5 +1,4 @@
 # Vehicle-Class-Hierarchy-Project
-### ***From Dr. David Gaitros COP3330 Class***
 ## Description
   This project practices polymorphism by implementing a Vehicle Class Hierarchy. The base Class - `Vehicle`, is inherited by the other vehicle types - **Motorcycle, Truck,
   Boat, and Car**. Each derived class has unique charactersitics natuve to that class.
