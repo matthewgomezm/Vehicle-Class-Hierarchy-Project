@@ -17,3 +17,8 @@ class Boat : public Vehicle
 
 #endif
 
+// *************************
+// * Author: Matthew Gomez *********
+// * Florida State University 2025 *
+// *********************************
+
