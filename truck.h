@@ -19,3 +19,7 @@ private:
 
 #endif
 
+// *************************
+// * Author: Matthew Gomez *********
+// * Florida State University 2025 *
+// *********************************
